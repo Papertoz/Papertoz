@@ -55,39 +55,6 @@ I build full-stack applications, machine learning pipelines, and AI-powered syst
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. VGT — AI-Powered Fitness Platform
-**React · Node.js · Express.js · MongoDB · LangGraph · Gemini**
-
-- Built a personalized workout and nutrition management platform.
-- Designed a multi-agent AI system with **8 specialized agents** and a centralized supervisor.
-- Developed **27 REST APIs** across 5 database models.
-- Integrated BullMQ and Redis for background AI jobs, with Firebase authentication and real-time synchronization.
-
-🔗 [View Repository](YOUR_VGT_REPOSITORY_URL)
-
-### 2. Call Quality Auto-Flagger
-**Python · Scikit-learn · NLP · Sentence Transformers**
-
-- Built an NLP pipeline to identify customer support calls requiring human review.
-- Processed **3,500+ call records**.
-- Achieved **98% recall**, 85% accuracy, and a weighted F1-score of 0.88.
-
-🔗 [View Repository](YOUR_CALL_QUALITY_REPOSITORY_URL)
-
-### 3. Reappear Hub Portal
-**Next.js · React · Node.js · Express.js · MongoDB · Redis**
-
-- Developed a university portal with dedicated student, faculty, and admin dashboards.
-- Implemented **51 REST APIs** across 11 database models.
-- Added JWT authentication, bcrypt password hashing, OTP verification, Google OAuth, and role-based access control.
-- Automated background email notifications using BullMQ and Redis.
-
-🔗 [View Repository](YOUR_REAPPEAR_HUB_REPOSITORY_URL)
-
----
-
 ## 🧠 Competitive Programming
 
 | Platform | Rating / Achievement |
